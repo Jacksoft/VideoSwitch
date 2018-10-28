@@ -17,11 +17,11 @@ UsedLibrary="C:/EAGLE-7.4.0/lbr/testpad.lbr"
 
 [Win_1]
 Type="Schematic Editor"
-Loc="-8 -8 1911 1008"
-State=3
+Loc="0 0 1919 1016"
+State=1
 Number=1
 File="switch_board.sch"
-View="-269.454 -62.5245 122.608 74.9676"
+View="-249.287 88.8115 -60.2144 155.117"
 WireWidths=" 0 0.3048 0.6096 0.8128 1.016 1.27 1.4224 1.6764 1.778 1.9304 2.1844 2.54 3.81 6.4516 0.4064 0.1524"
 PadDiameters=" 0.254 0.3048 0.4064 0.6096 0.8128 1.016 1.27 1.4224 1.6764 1.778 1.9304 2.1844 2.54 3.81 6.4516 0"
 PadDrills=" 0.5 0.6 0.7 0.9 1 1.1 1.2 1.3 1.4 1.5 1.6 2 2.2 2.8 3.2 0.8"
@@ -60,21 +60,13 @@ ArcDirection=0
 AddLevel=2
 PadsSameType=0
 Layer=91
-Views=" 1: -269.454 -62.5245 122.608 74.9676"
+Views=" 1: -249.287 88.8115 -60.2144 155.117"
 Sheet="1"
 
 [Win_2]
-Type="CAM Processor"
-Loc="-8 -31 591 404"
-State=0
-Number=3
-File="switch_board.brd"
-Job="C:/Users/Jacksoft/Desktop/LABORATORIO/Progetti/Scart/ITEAD_CAM_for-eagle_7.x/ITEAD_CAM_for eagle_7.x.cam"
-
-[Win_3]
 Type="Board Editor"
-Loc="-8 -8 1911 1008"
-State=3
+Loc="0 0 1919 1016"
+State=1
 Number=2
 File="switch_board.brd"
 View="-10.7087 -0.975756 196.393 92.2728"
@@ -117,7 +109,7 @@ AddLevel=2
 PadsSameType=0
 Layer=1
 
-[Win_4]
+[Win_3]
 Type="Control Panel"
 Loc="-8 -31 591 368"
 State=2
@@ -128,4 +120,3 @@ Screen="1920 1080"
 Window="Win_1"
 Window="Win_2"
 Window="Win_3"
-Window="Win_4"

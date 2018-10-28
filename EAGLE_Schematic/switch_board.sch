@@ -20354,9 +20354,10 @@ Mating wall wart : TOL-00298 (and others)</description>
 <plain>
 <text x="-233.68" y="96.52" size="1.778" layer="91">FOR MUX CHIPS</text>
 <text x="-160.02" y="96.52" size="1.778" layer="91">FOR PIC</text>
-<text x="-200.66" y="127" size="1.778" layer="91">VIDEO SWITCH WITH 8 INPUTS AND 1 OUTPUT (MOD. JL-1701)
+<text x="-200.66" y="121.92" size="1.778" layer="91">VIDEO SWITCH WITH 8 INPUTS AND 1 OUTPUT (MOD. JL-1701)
 SCART: AUDIO L+R, RGB, COMPOSITE, ASPECT RATIO, BLANKING
-COMPONENT: AUDIO L+R, Y Pb/Cb Pr/Cr TESTED UP TO 1080p</text>
+COMPONENT: AUDIO L+R, Y Pb/Cb Pr/Cr TESTED UP TO 1080p
+COPYRIGHT (c) 2017-2018 JACKSOFT LABS</text>
 </plain>
 <instances>
 <instance part="SWITCH1" gate="A" x="35.56" y="63.5"/>
